@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+    <test name="Test Execution">
+        <classes>
+            <!-- Include your test classes here <class name="com.Tests.LoginPageTest" />
+            <class name="com.Tests.InvalidLoginTest" /> -->
+            
+            <class name="com.Tests.otherendtoendTest" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]" verbose="0">
+  <test thread-count="5" name="Test Execution(failed)" verbose="0">
+    <classes>
+      <class name="com.Tests.LoginPageTest">
+        <methods>
+          <include name="user_enters_the_text_in_the_search_field"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Tests.LoginPageTest -->
+    </classes>
+  </test> <!-- Test Execution(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
